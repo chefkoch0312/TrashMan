@@ -2,7 +2,7 @@
 
 Description
 ===========
-Let's you mark with a click all of those hundreds of useless items 
+Let's you mark with a click all of those hundreds of useless items  
 to sell all at once the next time you visit the appropriate merchant.  
 Provides a UI so that you can select which tiers of items to sell.  
 Items already favorited will not get marked for sale.
