@@ -9,7 +9,7 @@ Items already favorited will not get marked for sale.
 
 Installation
 ============
-Extract the zip file to your Avorion directory.  
+Extract the zip file and copy the "mods" directory to your Avorion directory.  
 No files will be overwritten unless you already have this script installed.  
 Option A: Use the ShipScriptLoader at http://www.avorion.net/forum/index.php/topic,3918.0.html  
 Option B: Hit enter and paste this into your chat window  
