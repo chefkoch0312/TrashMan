@@ -9,12 +9,13 @@ Items already favorited will not get marked for sale.
 
 Installation
 ============
-Extract the zip file to your Avorion directory.  No files will be overwritten unless you already have this script installed.
-Option A: Use the ShipScriptLoader at http://www.avorion.net/forum/index.php/topic,3918.0.html
-Option B: Hit enter and paste this into your chat window
-/run Entity():addScript("../../mods/TrashMan/scripts/TrashMan.lua")
-(With option B, you will have to do that once each time you create a new ship.)
-If you're playing on a dedicated server, the server also must have this mod installed.
+Extract the zip file to your Avorion directory.  
+No files will be overwritten unless you already have this script installed.  
+Option A: Use the ShipScriptLoader at http://www.avorion.net/forum/index.php/topic,3918.0.html  
+Option B: Hit enter and paste this into your chat window  
+/run Entity():addScript("../../mods/TrashMan/scripts/TrashMan.lua")  
+(With option B, you will have to do that once each time you create a new ship.)  
+If you're playing on a dedicated server, the server also must have this mod installed.  
 
 Credits
 =======
