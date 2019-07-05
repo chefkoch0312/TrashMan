@@ -1,0 +1,26 @@
+# ========== mods\Trash Manager\data\scripts\entity\TrashMan.lua ==========
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Trash Man"
+msgstr ""
+
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Systems to trash"
+msgstr ""
+
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Turrets to trash"
+msgstr ""
+
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Select which types of inventory items to mark as trash. These items will not be destroyed or immediately sold. Instead, the next time you visit the appropriate merchant they can be sold with the merchant's 'Sell Trash' button.\nItems that are marked as favorites will not get marked for trash!"
+msgstr ""
+
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Mark Selected"
+msgstr ""
+
+#: mods\Trash Manager\data\scripts\entity\TrashMan.lua:
+msgid "Unmark All"
+msgstr ""
+
+
